@@ -1,18 +1,26 @@
-4826
+4841
 84/home/manson/frontend/frontend-mentor/social-proof-section-master/README-template.md1615321378000000000 0
 80/home/manson/frontend/frontend-mentor/social-proof-section-master/style-guide.md1615321378000000000 0
-81/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/index.html1647270155571610200 0
-95/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/image-irene.3cf72acd.jpg1647270155571610200 0
-94/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/image-anne.c9885126.jpg1647270155571610200 0
-93/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/icon-star.8b1dab1c.svg1647269081441610200 0
-80/home/manson/frontend/frontend-mentor/social-proof-section-master/src/index.html1647270155451610200 0
+81/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/index.html1647296115468828800 0
+93/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/index.f7626f62.css.map1647296115498828800 0
+109/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/bg-pattern-bottom-desktop.ea54780d.svg1647291971328828800 0
+95/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/image-irene.3cf72acd.jpg1647296115498828800 0
+94/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/image-anne.c9885126.jpg1647296115498828800 0
+93/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/icon-star.8b1dab1c.svg1647296115468828800 0
+80/home/manson/frontend/frontend-mentor/social-proof-section-master/src/index.html1647294616838828800 0
 93/home/manson/frontend/frontend-mentor/social-proof-section-master/src/images/image-colton.jpg1615321378000000000 0
 105/home/manson/frontend/frontend-mentor/social-proof-section-master/src/images/bg-pattern-bottom-mobile.svg1615321378000000000 0
 96/home/manson/frontend/frontend-mentor/social-proof-section-master/src/design/desktop-preview.jpg1615321378000000000 0
 94/home/manson/frontend/frontend-mentor/social-proof-section-master/src/design/mobile-design.jpg1615321378000000000 0
 76/home/manson/frontend/frontend-mentor/social-proof-section-master/src/design1647262593031610200 1
+97/home/manson/frontend/frontend-mentor/social-proof-section-master/src/sass/components/review.scss1647296141148828800 0
+84/home/manson/frontend/frontend-mentor/social-proof-section-master/src/sass/main.scss1647294479428828800 0
+91/home/manson/frontend/frontend-mentor/social-proof-section-master/src/sass/base/_reset.scss1647293540488828800 0
+79/home/manson/frontend/frontend-mentor/social-proof-section-master/src/sass/base1647271041861610200 1
+100/home/manson/frontend/frontend-mentor/social-proof-section-master/src/sass/layout/_social-proof.scss1647295256418828800 0
+74/home/manson/frontend/frontend-mentor/social-proof-section-master/src/sass1647270998051610200 1
 77/home/manson/frontend/frontend-mentor/social-proof-section-master/src/main.js1647263054601610200 0
-69/home/manson/frontend/frontend-mentor/social-proof-section-master/src1647263306061610200 1
+69/home/manson/frontend/frontend-mentor/social-proof-section-master/src1647270337731610200 1
 104/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/resolve-from/package.json1647263445671610200 0
 103/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/nth-check/lib/compile.js1647263445781610200 0
 101/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/nth-check/lib/parse.js1647263445911610200 0
@@ -455,7 +463,7 @@
 126/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/features/keyboardevent-key.js1647262857431610200 0
 126/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/features/custom-elementsv1.js1647262856881610200 0
 132/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/features/comparedocumentposition.js1647262856251610200 0
-78/home/manson/frontend/frontend-mentor/social-proof-section-master/package.json1647263482511610200 0
+78/home/manson/frontend/frontend-mentor/social-proof-section-master/package.json1647291987798828800 0
 116/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/features/outline.js1647262857611610200 0
 129/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/features/css-text-orientation.js1647262856821610200 0
 119/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/features/indexeddb2.js1647262857341610200 0
@@ -688,6 +696,7 @@
 109/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/domutils/lib/manipulation.d.ts1647263446361610200 0
 100/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/domutils/lib/index.js1647263445971610200 0
 100/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/domutils/lib/feeds.js1647263445781610200 0
+84/home/manson/frontend/frontend-mentor/social-proof-section-master/src/sass/abstracts1647270922931610200 1
 107/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/domutils/lib/manipulation.js1647263446061610200 0
 110/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/regions/AD.js1647262853761610200 0
 102/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/domutils/lib/feeds.d.ts1647263446301610200 0
@@ -724,7 +733,7 @@
 120/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/postcss-convert-values/src/lib/convert.js1647263445871610200 0
 109/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/postcss-convert-values/src/lib1647263445811610200 1
 114/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/postcss-convert-values/src/index.js1647263446011610200 0
-92/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/index.4d6bcbeb.js.map1647269081481610200 0
+92/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/index.4d6bcbeb.js.map1647296115508828800 0
 105/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/postcss-convert-values/src1647263445981610200 1
 89/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/cssesc/bin1647263445931610200 1
 110/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/regions/NP.js1647262857581610200 0
@@ -856,6 +865,7 @@
 117/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/htmlnano/docs/docs/010-introduction.md1647263446691610200 0
 110/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/htmlnano/docs/docs/020-usage.md1647263446701610200 0
 106/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/htmlnano/docs/versions.json1647263446681610200 0
+104/home/manson/frontend/frontend-mentor/social-proof-section-master/src/sass/components/card-customer.scss1647270580011610200 0
 110/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/regions/ZA.js1647262857951610200 0
 105/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/htmlnano/docs/package.json1647263446671610200 0
 108/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/htmlnano/docs/babel.config.js1647263445991610200 0
@@ -1162,7 +1172,6 @@
 100/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/safe-buffer/README.md1647262852991610200 0
 98/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/safe-buffer/LICENSE1647262852671610200 0
 103/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/safe-buffer/package.json1647262852841610200 0
-84/home/manson/frontend/frontend-mentor/social-proof-section-master/src/scss/main.scss1647268132261610200 0
 90/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/safe-buffer1647262853071610200 1
 105/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/source-map-js/CHANGELOG.md1647262853861610200 0
 106/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/source-map-js/source-map.js1647262853581610200 0
@@ -1335,6 +1344,7 @@
 117/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/features/minmaxwh.js1647262857521610200 0
 136/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/Doxyfile1647262853771610200 0
 137/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/COPYRIGHT1647262853241610200 0
+105/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/bg-pattern-top-mobile.24bcb6e6.svg1647296115468828800 0
 96/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/colord/LICENSE.md1647263446231610200 0
 137/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/intro.doc1647262856531610200 0
 142/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/sample-mdb.txt1647262858301610200 0
@@ -1425,7 +1435,7 @@
 122/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/features/console-basic.js1647262856251610200 0
 97/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/acorn/package.json1647263446261610200 0
 124/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/lmdb/prebuilds/linux-x64/node.abi83.musl.node1647262858011610200 0
-96/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/image-colton.05f5f710.jpg1647269793501610200 0
+96/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/image-colton.05f5f710.jpg1647296115498828800 0
 125/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/lmdb/prebuilds/linux-x64/node.abi88.glibc.node1647262858111610200 0
 110/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/regions/SV.js1647262857811610200 0
 124/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/lmdb/prebuilds/linux-x64/node.abi72.musl.node1647262857881610200 0
@@ -1882,7 +1892,7 @@
 117/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/core/test/fixtures/module-a.js1647262857011610200 0
 114/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/runtime-browser-hmr/LICENSE1647263445881610200 0
 126/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/csso/lib/restructure/prepare/processSelector.js1647263446621610200 0
-97/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/favicon-32x32.3a4ddde5.png1647269081471610200 0
+97/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/favicon-32x32.3a4ddde5.png1647296115498828800 0
 127/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/features/unhandledrejection.js1647262857881610200 0
 120/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/source-map/dist/SourceMap.js.flow1647262853861610200 0
 112/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/features/aac.js1647262853261610200 0
@@ -1981,6 +1991,7 @@
 108/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/terser/lib/compress/common.js1647263446601610200 0
 126/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/package-manager/src/NodeResolverSync.js1647262856501610200 0
 110/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/postcss-reduce-initial/src/data1647263446041610200 1
+100/home/manson/frontend/frontend-mentor/social-proof-section-master/src/sass/abstracts/_variables.scss1647271484021610200 0
 107/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/package-manager/test1647262856541610200 1
 100/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/svgo/lib/css-tools.js1647263446511610200 0
 101/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/xxhash-wasm/types.d.ts1647262853501610200 0
@@ -2223,7 +2234,7 @@
 110/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/regions/KP.js1647262857451610200 0
 113/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/type-fest/source/set-required.d.ts1647263446461610200 0
 109/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/htmlparser2/lib/Tokenizer.d.ts1647263446301610200 0
-88/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/index.4d6bcbeb.js1647269081481610200 0
+88/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/index.4d6bcbeb.js1647296115498828800 0
 105/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/colord/plugins/minify.d.ts1647263446491610200 0
 122/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/core/test/fixtures/config-malformed1647262856381610200 1
 113/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/postcss-ordered-values/LICENSE-MIT1647263445681610200 0
@@ -2488,6 +2499,7 @@
 110/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/regions/CA.js1647262855911610200 0
 113/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/features/sdch.js1647262857761610200 0
 121/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/transformer-image/lib/loadSharp.js1647263445991610200 0
+81/home/manson/frontend/frontend-mentor/social-proof-section-master/src/sass/layout1647295208268828800 1
 116/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/postcss-unique-selectors/src/index.js1647263445801610200 0
 147/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/core/test/fixtures/targets-default-distdir-none/package.json1647262857411610200 0
 106/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@swc/helpers/scripts/gen.sh1647263446601610200 0
@@ -3726,6 +3738,7 @@
 106/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/workers/lib/threads1647262854431610200 1
 140/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/package-manager/test/fixtures/packages/peers/index.js1647262856431610200 0
 122/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/workers/lib/threads/ThreadsChild.js1647262854411610200 0
+101/home/manson/frontend/frontend-mentor/social-proof-section-master/src/sass/abstracts/_typography.scss1647294272458828800 0
 107/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/workers/lib/index.js1647262854191610200 0
 110/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/regions/JP.js1647262857401610200 0
 130/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/features/getboundingclientrect.js1647262857231610200 0
@@ -3800,6 +3813,7 @@
 108/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/cache/src/IDBCache.js1647262853961610200 0
 83/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/yaml1647263446651610200 1
 103/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/cache/index.d.ts1647262854121610200 0
+89/home/manson/frontend/frontend-mentor/social-proof-section-master/dist/index.f7626f62.css1647296115468828800 0
 96/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/cache/lib1647262854121610200 1
 107/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/cache/lib/FSCache.js1647262853841610200 0
 127/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/features/font-unicode-range.js1647262857191610200 0
@@ -4049,6 +4063,7 @@
 100/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/import-fresh/index.js1647263445721610200 0
 91/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/postcss-calc1647263446331610200 1
 148/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/package.json1647263446821610200 0
+85/home/manson/frontend/frontend-mentor/social-proof-section-master/src/sass/components1647270580011610200 1
 142/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/nested1647263446421610200 1
 149/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/nested/baz.js1647263446421610200 0
 110/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/caniuse-lite/data/regions/AS.js1647262854401610200 0
@@ -4151,7 +4166,6 @@
 130/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/transformer-react-refresh-wrap/package.json1647263446221610200 0
 95/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/json5/lib/cli.js1647262852761610200 0
 113/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/packager-html/package.json1647263446051610200 0
-74/home/manson/frontend/frontend-mentor/social-proof-section-master/src/scss1647263311411610200 1
 91/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/mdn-data/css1647263446531610200 1
 103/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/utils/test/input1647262856781610200 1
 104/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/packager-html/lib1647263445751610200 1
@@ -4187,7 +4201,7 @@
 113/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/runtime-service-worker/src1647263445881610200 1
 109/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/core/src/Validation.js1647262857311610200 0
 110/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/core/src/Environment.js1647262856881610200 0
-70/home/manson/frontend/frontend-mentor/social-proof-section-master/dist1647270155571610200 1
+70/home/manson/frontend/frontend-mentor/social-proof-section-master/dist1647296115508828800 1
 117/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/core/lib/public/BundleGroup.js1647262856761610200 0
 123/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@swc/helpers/src/_class_private_field_set.js1647263446631610200 0
 113/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/core/src/resolveOptions.js1647262857201610200 0
@@ -4585,6 +4599,7 @@
 94/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/clone/clone.iml1647262853181610200 0
 113/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/watcher/src/unix/legacy.cc1647262853781610200 0
 105/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/watcher/src/shared1647262853951610200 1
+97/home/manson/frontend/frontend-mentor/social-proof-section-master/src/sass/layout/_container.scss1647295144308828800 0
 113/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/workers/test/workerfarm.js1647262855011610200 0
 111/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/resolver-default/LICENSE1647263445691610200 0
 110/home/manson/frontend/frontend-mentor/social-proof-section-master/node_modules/@parcel/watcher/src/unix/fts.cc1647262853501610200 0

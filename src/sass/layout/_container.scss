@@ -1,0 +1,13 @@
+@use '../abstracts/variables' as var;
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  padding: 3rem 1rem;
+  background-color: var.$clr-neutral-3;
+
+  display: grid;
+  place-content: center;
+  background-image: url('../images/bg-pattern-top-mobile.svg');
+  background-repeat: no-repeat;
+}
