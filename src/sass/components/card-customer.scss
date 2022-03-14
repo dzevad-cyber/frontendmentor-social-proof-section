@@ -1,0 +1,51 @@
+@use '../abstracts/variables' as var;
+
+.card-customer {
+  display: grid;
+  row-gap: 2rem;
+
+  background-color: var.$clr-prim;
+  border-radius: 10px;
+  padding: 3rem;
+  font-size: 1.5rem;
+
+  &__header {
+    display: grid;
+    grid-template-columns: min-content max-content;
+    column-gap: 3rem;
+  }
+
+  &__info {
+    display: grid;
+    align-content: center;
+    font-weight: 500;
+    line-height: 1.5;
+  }
+
+  &__name {
+    color: var.$clr-neutral-3;
+  }
+
+  &__status {
+    color: var.$clr-prim-1;
+  }
+
+  &__review {
+    color: var.$clr-neutral-3;
+    font-weight: 400;
+    line-height: 1.5;
+    font-size: 1.4rem;
+  }
+
+  &__photo {
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+    border-radius: 50%;
+
+    & > img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
