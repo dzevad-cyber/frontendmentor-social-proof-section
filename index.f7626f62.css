@@ -41,15 +41,31 @@ a {
   display: grid;
   row-gap: 1rem;
 }
+@media (min-width: 62.5em) {
+  .social-proof__header {
+    grid-auto-rows: min-content;
+    text-align: start;
+  }
+}
 .social-proof__title {
   font-weight: 700;
   color: #502050;
   font-size: 3rem;
   line-height: 1;
 }
+@media (min-width: 62.5em) {
+  .social-proof__title {
+    max-width: 300px;
+  }
+}
 .social-proof__about {
   font-size: 1.3rem;
   line-height: 1.5;
+}
+@media (min-width: 62.5em) {
+  .social-proof__about {
+    max-width: 400px;
+  }
 }
 .social-proof__reviews {
   display: grid;
@@ -61,7 +77,29 @@ a {
 }
 @media (min-width: 62.5em) {
   .social-proof {
-    max-width: 1000px;
+    max-width: 1200px;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1rem;
+    row-gap: 5rem;
+  }
+  .social-proof > .social-proof__customers {
+    grid-column: 1/-1;
+    grid-row: 2/3;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 2rem;
+  }
+  .social-proof__review--1, .social-proof__review--2, .social-proof__review--3 {
+    min-width: 80%;
+  }
+  .social-proof__review--1 {
+    justify-self: start;
+  }
+  .social-proof__review--2 {
+    justify-self: center;
+  }
+  .social-proof__review--3 {
+    justify-self: end;
   }
 }
 .review {
@@ -80,6 +118,11 @@ a {
   grid-auto-flow: column;
   justify-content: center;
   column-gap: 1rem;
+}
+@media (min-width: 62.5em) {
+  .review {
+    grid-auto-flow: column;
+  }
 }
 .card-customer {
   display: grid;
