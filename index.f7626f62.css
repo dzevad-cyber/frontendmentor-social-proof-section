@@ -24,10 +24,18 @@ a {
   min-height: 100vh;
   padding: 3rem 1rem;
   background-color: white;
+  background-color: white;
   display: grid;
   place-content: center;
-  background-image: url("bg-pattern-top-mobile.24bcb6e6.svg");
+  background-image: url("bg-pattern-top-mobile.24bcb6e6.svg"), url("bg-pattern-bottom-mobile.08ba87fe.svg");
   background-repeat: no-repeat;
+  background-position: 20vw top, right bottom;
+}
+@media (min-width: 62.5em) {
+  .container {
+    background-image: url("bg-pattern-top-desktop.3ce7402a.svg"), url("bg-pattern-bottom-desktop.ea54780d.svg");
+    background-position: left 0vh, right bottom;
+  }
 }
 .social-proof {
   max-width: 375px;
@@ -56,11 +64,13 @@ a {
 @media (min-width: 62.5em) {
   .social-proof__title {
     max-width: 300px;
+    font-size: 3.5rem;
   }
 }
 .social-proof__about {
   font-size: 1.3rem;
   line-height: 1.5;
+  font-weight: 500;
 }
 @media (min-width: 62.5em) {
   .social-proof__about {
@@ -85,6 +95,7 @@ a {
   .social-proof > .social-proof__customers {
     grid-column: 1/-1;
     grid-row: 2/3;
+    min-height: 250px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     column-gap: 2rem;
@@ -100,6 +111,18 @@ a {
   }
   .social-proof__review--3 {
     justify-self: end;
+  }
+  .social-proof__customers--1, .social-proof__customers--2, .social-proof__customers--3 {
+    max-height: 90%;
+  }
+  .social-proof__customers--1 {
+    align-self: start;
+  }
+  .social-proof__customers--2 {
+    align-self: center;
+  }
+  .social-proof__customers--3 {
+    align-self: end;
   }
 }
 .review {
@@ -126,7 +149,7 @@ a {
 }
 .card-customer {
   display: grid;
-  row-gap: 2rem;
+  row-gap: 3rem;
   background-color: #502050;
   border-radius: 10px;
   padding: 3rem;
@@ -152,7 +175,7 @@ a {
 .card-customer__review {
   color: white;
   font-weight: 400;
-  line-height: 1.5;
+  line-height: 1.6;
   font-size: 1.3rem;
 }
 .card-customer__photo {
