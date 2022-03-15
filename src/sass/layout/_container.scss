@@ -5,9 +5,18 @@
   min-height: 100vh;
   padding: 3rem 1rem;
   background-color: var.$clr-neutral-3;
+  background-color: white;
 
   display: grid;
   place-content: center;
-  background-image: url('../images/bg-pattern-top-mobile.svg');
+  background-image: url('../images/bg-pattern-top-mobile.svg'),
+    url('../images/bg-pattern-bottom-mobile.svg');
   background-repeat: no-repeat;
+  background-position: 20vw top, right bottom;
+
+  @media (min-width: 62.5em) {
+    background-image: url('../images/bg-pattern-top-desktop.svg'),
+      url('../images/bg-pattern-bottom-desktop.svg');
+    background-position: left 0vh, right bottom;
+  }
 }

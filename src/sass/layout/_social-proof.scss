@@ -29,12 +29,14 @@
 
     @media (min-width: 62.5em) {
       max-width: 300px;
+      font-size: 3.5rem;
     }
   }
 
   &__about {
     font-size: 1.3rem;
     line-height: 1.5;
+    font-weight: tp.$fw-medium;
 
     @media (min-width: 62.5em) {
       max-width: 400px;
@@ -61,12 +63,14 @@
     & > &__customers {
       grid-column: 1 / -1;
       grid-row: 2 / 3;
+      min-height: 250px;
 
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       column-gap: 2rem;
     }
 
+    // reviews
     &__review--1,
     &__review--2,
     &__review--3 {
@@ -83,6 +87,23 @@
 
     &__review--3 {
       justify-self: end;
+    }
+
+    // customers
+    &__customers--1,
+    &__customers--2,
+    &__customers--3 {
+      max-height: 90%;
+    }
+
+    &__customers--1 {
+      align-self: start;
+    }
+    &__customers--2 {
+      align-self: center;
+    }
+    &__customers--3 {
+      align-self: end;
     }
   }
 }
